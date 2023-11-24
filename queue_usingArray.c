@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX_SIZE 100
+#define MAX_SIZE 100 //maximum size of queue
 
 int queue[MAX_SIZE];
 int last_index = -1;
